@@ -1,2 +1,3 @@
 # scripts-collection
-My Bash, Python and Powershell scripts to keep it simple
+My collection of Bash, Python and Powershell scripts to keep it simple.
+
